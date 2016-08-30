@@ -3,10 +3,7 @@
  * 
  */
 
-using System.IO;
-using NBoilerpipe;
 using NBoilerpipe.Document;
-using Sharpen;
 
 namespace NBoilerpipe
 {

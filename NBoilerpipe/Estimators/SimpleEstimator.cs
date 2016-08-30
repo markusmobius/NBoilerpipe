@@ -4,7 +4,6 @@
  */
 
 using NBoilerpipe.Document;
-using Sharpen;
 
 namespace NBoilerpipe.Estimators
 {

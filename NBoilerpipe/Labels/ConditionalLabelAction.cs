@@ -5,8 +5,6 @@
 
 using NBoilerpipe.Conditions;
 using NBoilerpipe.Document;
-using NBoilerpipe.Labels;
-using Sharpen;
 
 namespace NBoilerpipe.Labels
 {

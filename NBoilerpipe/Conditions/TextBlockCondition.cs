@@ -3,9 +3,7 @@
  * 
  */
 
-using NBoilerpipe.Conditions;
 using NBoilerpipe.Document;
-using Sharpen;
 
 namespace NBoilerpipe.Conditions
 {

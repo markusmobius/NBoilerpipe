@@ -1,7 +1,9 @@
 
-NBoilerpipe is a C# port of boilerpipe 1.2 (http://code.google.com/p/boilerpipe/) library.  Most of the code is converted  with the Sharpen tool (https://github.com/slluis/sharpen). The code uses the Sharpen libary (with modification) from NGit project (https://github.com/slluis/ngit) and HmtlAgilityPack (http://htmlagilitypack.codeplex.com/). 
+NBoilerpipe is a C# port of boilerpipe 1.2 (http://code.google.com/p/boilerpipe/) library.  
+Based on the original NBoilerpipe library by Arif Ogan (https://github.com/oganix/NBoilerpipe)
+Removed dependency on Sharpen library. Only the needed files from Sharpen are inclued in a folder inside NBoilerpipe project.
 
-NBoilerpipe is only been tested with Mono. 
+Target: Have a PCL NuGet package of Boilerpipe for C#
 
 Usage:
 

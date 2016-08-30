@@ -3,10 +3,8 @@
  * 
  */
 
-using NBoilerpipe;
 using NBoilerpipe.Document;
 using NBoilerpipe.Labels;
-using Sharpen;
 
 namespace NBoilerpipe.Filters.Heuristics
 {

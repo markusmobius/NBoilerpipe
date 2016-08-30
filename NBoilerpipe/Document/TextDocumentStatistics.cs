@@ -3,9 +3,6 @@
  * 
  */
 
-using NBoilerpipe.Document;
-using Sharpen;
-
 namespace NBoilerpipe.Document
 {
 	/// <summary>Provides shallow statistics on a given TextDocument</summary>

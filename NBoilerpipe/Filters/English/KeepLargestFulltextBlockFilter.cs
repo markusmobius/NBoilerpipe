@@ -4,11 +4,8 @@
  */
 
 using System.Collections.Generic;
-using NBoilerpipe;
 using NBoilerpipe.Document;
-using NBoilerpipe.Filters.English;
 using NBoilerpipe.Labels;
-using Sharpen;
 
 namespace NBoilerpipe.Filters.English
 {

@@ -3,9 +3,6 @@
  * 
  */
 
-using NBoilerpipe.Extractors;
-using Sharpen;
-
 namespace NBoilerpipe.Extractors
 {
 	/// <summary>

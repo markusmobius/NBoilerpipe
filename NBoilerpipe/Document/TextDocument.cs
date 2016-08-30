@@ -5,8 +5,6 @@
 
 using System.Collections.Generic;
 using System.Text;
-using NBoilerpipe.Document;
-using Sharpen;
 
 namespace NBoilerpipe.Document
 {

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -29,10 +29,12 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
-    <Reference Include="HtmlAgilityPack">
-      <HintPath>..\Libs\HtmlAgilityPack.dll</HintPath>
+    <Reference Include="HtmlAgilityPack, Version=1.4.9.5, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.4.9.5\lib\Net40\HtmlAgilityPack.dll</HintPath>
+      <Private>True</Private>
     </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
@@ -85,6 +87,20 @@
     <Compile Include="Labels\ConditionalLabelAction.cs" />
     <Compile Include="Labels\DefaultLabels.cs" />
     <Compile Include="Labels\LabelAction.cs" />
+    <Compile Include="Sharpen\AList.cs" />
+    <Compile Include="Sharpen\Arrays.cs" />
+    <Compile Include="Sharpen\BitSet.cs" />
+    <Compile Include="Sharpen\CharSequence.cs" />
+    <Compile Include="Sharpen\Collections.cs" />
+    <Compile Include="Sharpen\EnumeratorWrapper.cs" />
+    <Compile Include="Sharpen\Exceptions.cs" />
+    <Compile Include="Sharpen\Extensions.cs" />
+    <Compile Include="Sharpen\Iterable.cs" />
+    <Compile Include="Sharpen\Iterator.cs" />
+    <Compile Include="Sharpen\ListIterator.cs" />
+    <Compile Include="Sharpen\Matcher.cs" />
+    <Compile Include="Sharpen\Pattern.cs" />
+    <Compile Include="Sharpen\Runtime.cs" />
     <Compile Include="Util\UnicodeTokenizer.cs" />
     <Compile Include="Parser\NBoilerpipeContentHandler.cs" />
     <Compile Include="Parser\NBoilerpipeHtmlParser.cs" />
@@ -98,12 +114,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <Folder Include="Parser\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Sharpen\Sharpen.csproj">
-      <Project>{BB30B844-5CB6-49F8-96F3-95539721EC19}</Project>
-      <Name>Sharpen</Name>
-    </ProjectReference>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

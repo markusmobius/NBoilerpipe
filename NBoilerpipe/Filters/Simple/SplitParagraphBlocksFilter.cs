@@ -4,9 +4,7 @@
  */
 
 using System.Collections.Generic;
-using NBoilerpipe;
 using NBoilerpipe.Document;
-using NBoilerpipe.Filters.Simple;
 using Sharpen;
 
 namespace NBoilerpipe.Filters.Simple

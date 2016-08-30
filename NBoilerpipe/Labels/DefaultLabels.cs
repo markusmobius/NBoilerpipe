@@ -3,9 +3,6 @@
  * 
  */
 
-using NBoilerpipe.Labels;
-using Sharpen;
-
 namespace NBoilerpipe.Labels
 {
 	/// <summary>

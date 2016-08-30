@@ -3,9 +3,7 @@
  * 
  */
 
-using NBoilerpipe;
 using NBoilerpipe.Document;
-using NBoilerpipe.Filters.English;
 using NBoilerpipe.Labels;
 using Sharpen;
 

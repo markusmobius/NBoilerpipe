@@ -4,7 +4,6 @@
  */
 
 using System.Collections.Generic;
-using Sharpen;
 
 namespace NBoilerpipe.Parser
 {

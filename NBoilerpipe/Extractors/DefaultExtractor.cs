@@ -4,10 +4,8 @@
  */
 
 using NBoilerpipe.Document;
-using NBoilerpipe.Extractors;
 using NBoilerpipe.Filters.English;
 using NBoilerpipe.Filters.Heuristics;
-using Sharpen;
 
 namespace NBoilerpipe.Extractors
 {

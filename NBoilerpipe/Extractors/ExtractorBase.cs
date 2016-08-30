@@ -4,12 +4,8 @@
  */
 
 using System;
-using System.IO;
-using NBoilerpipe;
 using NBoilerpipe.Document;
-using NBoilerpipe.Extractors;
 using NBoilerpipe.Parser;
-using Sharpen;
 
 namespace NBoilerpipe.Extractors
 {

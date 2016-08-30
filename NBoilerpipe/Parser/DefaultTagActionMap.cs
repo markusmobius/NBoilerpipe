@@ -3,8 +3,6 @@
  * 
  */
 
-using Sharpen;
-
 namespace NBoilerpipe.Parser
 {
 	/// <summary>
