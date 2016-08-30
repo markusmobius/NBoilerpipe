@@ -1,10 +1,11 @@
 C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\Test.exe
 C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\Test.pdb
+C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\obj\Debug\Test.exe
+C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\obj\Debug\Test.pdb
+C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\Test.exe.config
 C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\NBoilerpipe.dll
 C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\HtmlAgilityPack.dll
 C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\NBoilerpipe.pdb
 C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\bin\Debug\HtmlAgilityPack.xml
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\obj\Debug\Test.exe
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\Test\obj\Debug\Test.pdb

@@ -17,12 +17,12 @@ namespace Sharpen
 
 		public static Pattern Compile (string pattern)
 		{
-			return new Pattern (new Regex (pattern, RegexOptions.Compiled));
+			return new Pattern (new Regex (pattern, RegexOptions.CultureInvariant));
 		}
 
 		public static Pattern Compile (string pattern, int flags)
 		{
-			RegexOptions compiled = RegexOptions.Compiled;
+			RegexOptions compiled = RegexOptions.CultureInvariant;
 			if ((flags & 1) != CASE_INSENSITIVE) {
 				compiled |= RegexOptions.IgnoreCase;
 			}

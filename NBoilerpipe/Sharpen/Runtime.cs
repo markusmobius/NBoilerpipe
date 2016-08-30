@@ -24,47 +24,7 @@ namespace Sharpen
             return DateTime.UtcNow.ToMillisecondsSinceEpoch();
         }
 
-        public static string Getenv(string var)
-        {
-            return Environment.GetEnvironmentVariable(var);
-        }
 
-        public static IDictionary<string, string> GetEnv()
-        {
-            Dictionary<string, string> dictionary = new Dictionary<string, string>();
-            foreach (DictionaryEntry v in Environment.GetEnvironmentVariables())
-            {
-                dictionary[(string)v.Key] = (string)v.Value;
-            }
-            return dictionary;
-        }
-
-        public static IPAddress GetLocalHost()
-        {
-            return Dns.GetHostEntry(Dns.GetHostName()).AddressList[0];
-        }
-
-        private static Hashtable properties;
-
-        public static Hashtable GetProperties()
-        {
-            if (properties == null)
-            {
-                properties = new Hashtable();
-                properties["user.home"] = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-                properties["java.library.path"] = Environment.GetEnvironmentVariable("PATH");
-                if (Path.DirectorySeparatorChar != '\\')
-                    properties["os.name"] = "Unix";
-                else
-                    properties["os.name"] = "Windows";
-            }
-            return properties;
-        }
-
-        public static string GetProperty(string key)
-        {
-            return ((string)GetProperties()[key]) ?? string.Empty;
-        }
 
         public static void SetProperty(string key, string value)
         {
@@ -100,20 +60,8 @@ namespace Sharpen
             return Encoding.GetEncoding(encoding).GetBytes(str);
         }
 
-        public static FieldInfo[] GetDeclaredFields(Type t)
-        {
-            return t.GetFields(BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance);
-        }
+  
 
-        public static void NotifyAll(object ob)
-        {
-            Monitor.PulseAll(ob);
-        }
-
-        public static void PrintStackTrace(Exception ex)
-        {
-            Console.WriteLine(ex);
-        }
 
         public static void PrintStackTrace(Exception ex, TextWriter tw)
         {
@@ -140,16 +88,6 @@ namespace Sharpen
             return Monitor.Wait(ob, (int)milis);
         }
 
-        public static Type GetType(string name)
-        {
-            foreach (Assembly a in AppDomain.CurrentDomain.GetAssemblies())
-            {
-                Type t = a.GetType(name);
-                if (t != null)
-                    return t;
-            }
-            throw new InvalidOperationException("Type not found: " + name);
-        }
 
         public static void SetCharAt(StringBuilder sb, int index, char c)
         {
@@ -171,21 +109,7 @@ namespace Sharpen
             return string.CompareOrdinal(s1, s2);
         }
 
-        public static string GetStringForBytes(byte[] chars)
-        {
-            return Encoding.UTF8.GetString(chars);
-        }
-
-        public static string GetStringForBytes(byte[] chars, string encoding)
-        {
-            return GetEncoding(encoding).GetString(chars);
-        }
-
-        public static string GetStringForBytes(byte[] chars, int start, int len)
-        {
-            return Encoding.UTF8.GetString(chars, start, len);
-        }
-
+  
         public static string GetStringForBytes(byte[] chars, int start, int len, string encoding)
         {
             return GetEncoding(encoding).Decode(chars, start, len);

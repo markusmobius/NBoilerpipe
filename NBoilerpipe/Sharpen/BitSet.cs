@@ -20,7 +20,7 @@ namespace Sharpen
      * @author <br><a href="mailto:pete@yamuna.demon.co.uk">Pete Wells</a>
      */
 
-    public class BitSet : ICloneable
+    public class BitSet 
     {
         protected internal const int BITS = 64; // number of bits / long
         protected internal const int NIBBLE = 4;
@@ -128,9 +128,9 @@ namespace Sharpen
                 s.dataBits = new long[dataBits.Length];
                 Array.Copy(dataBits, 0, s.dataBits, 0, dataBits.Length);
             }
-            catch //(System.Exception e)
+            catch (System.Exception e)
             {
-                throw new System.ApplicationException();
+                throw e;
             }
             return s;
         }
@@ -414,46 +414,8 @@ namespace Sharpen
             return str;
         }
 
-        /*
-         * Create a string representation where instead of integer elements, the
-         * ith element of vocabulary is displayed instead.  Vocabulary is a Vector
-         * of Strings.
-         * @separator The string to put in between elements
-         * @return A commma-separated list of character constants.
-         */
 
-        public virtual string ToString(string separator, ArrayList vocabulary)
-        {
-            if (vocabulary == null)
-            {
-                return ToString(separator);
-            }
-            string str = "";
-            for (int i = 0; i < (dataBits.Length << LOG_BITS); i++)
-            {
-                if (Member(i))
-                {
-                    if (str.Length > 0)
-                    {
-                        str += separator;
-                    }
-                    if (i >= vocabulary.Count)
-                    {
-                        str += "<bad element " + i + ">";
-                    }
-                    else if (vocabulary[i] == null)
-                    {
-                        str += "<" + i + ">";
-                    }
-                    else
-                    {
-                        str += (string)vocabulary[i];
-                    }
-                }
-            }
-            return str;
-        }
-
+    
         /*
          * Dump a comma-separated list of the words making up the bit set.
          * Split each 64 bit number into two more manageable 32 bit numbers.
