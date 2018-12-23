@@ -1,8 +1,0 @@
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\obj\Debug\NBoilerpipe.csprojResolveAssemblyReference.cache
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\bin\Debug\NBoilerpipe.dll
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\bin\Debug\NBoilerpipe.pdb
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\bin\Debug\HtmlAgilityPack.dll
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\bin\Debug\HtmlAgilityPack.pdb
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\bin\Debug\HtmlAgilityPack.xml
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\obj\Debug\NBoilerpipe.dll
-C:\Users\ciliescu\Source\Repos\NBoilerpipe\NBoilerpipe\obj\Debug\NBoilerpipe.pdb

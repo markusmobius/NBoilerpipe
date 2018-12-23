@@ -1,0 +1,17 @@
+C:\github\newsprinceton\NewsNG\BoilerPipe\bin\Debug\netstandard2.0\BoilerPipe.deps.json
+C:\github\newsprinceton\NewsNG\BoilerPipe\bin\Debug\netstandard2.0\BoilerPipe.dll
+C:\github\newsprinceton\NewsNG\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.csproj.CoreCompileInputs.cache
+C:\github\newsprinceton\NewsNG\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.AssemblyInfoInputs.cache
+C:\github\newsprinceton\NewsNG\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.AssemblyInfo.cs
+C:\github\newsprinceton\NewsNG\BoilerPipe\bin\Debug\netstandard2.0\BoilerPipe.pdb
+C:\github\newsprinceton\NewsNG\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.dll
+C:\github\newsprinceton\NewsNG\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.pdb
+C:\github\nboilerpipe\BoilerPipe\bin\Debug\netstandard2.0\BoilerPipe.deps.json
+C:\github\nboilerpipe\BoilerPipe\bin\Debug\netstandard2.0\BoilerPipe.dll
+C:\github\nboilerpipe\BoilerPipe\bin\Debug\netstandard2.0\BoilerPipe.pdb
+C:\github\nboilerpipe\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.csprojAssemblyReference.cache
+C:\github\nboilerpipe\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.csproj.CoreCompileInputs.cache
+C:\github\nboilerpipe\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.AssemblyInfoInputs.cache
+C:\github\nboilerpipe\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.AssemblyInfo.cs
+C:\github\nboilerpipe\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.dll
+C:\github\nboilerpipe\BoilerPipe\obj\Debug\netstandard2.0\BoilerPipe.pdb

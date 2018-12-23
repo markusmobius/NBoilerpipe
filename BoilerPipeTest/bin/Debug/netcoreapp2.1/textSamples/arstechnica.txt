@@ -1,0 +1,780 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title>Review: The June oven made me want a camera in every cooking device | Ars Technica</title>
+    <script type="text/javascript">
+    ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars\/assets","HOME_URL":"https:\/\/arstechnica.com","LOGIN_URL":"https:\/\/arstechnica.com\/services\/login-desktop.html?v=1","CIVIS":"\/civis","THEME":"light","VIEW":"grid","MOBILE":false,"SUBSCRIBER":false,"PLUS_PLUS":false,"LOGGED":false,"USER_ID":null,"ENV":"production","AD":{"tags":["cooking","features-2","internet-of-things","june-toaster-oven","reviews"],"channel":"gadgets","slug":"how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things","template_type":"article","queue":[],"server":"production"},"TOTAL":89957,"UNREAD":0,"RECENT":[1431785,1430051,1429577,1432337,1431185,1429051,1432391,1432415,1432441,1430601,1432369,1431711,1431693,1432279,1432223,1430763,1431719,1432017,1431967,1431895,1431515,1430195,1431277,1430693,1431461],"LOGINS":true,"CROSS":false,"PARSELY":"arstechnica.com","COMMENTS":false,"HOMEPAGE":false,"SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":"gadgets","PAGETITLE":"","ZEN_MODE":false};
+  </script>
+
+  <link rel="stylesheet" type="text/css" media="all" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/css/main-f1264b39b4.css" />
+      <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index/" />
+  <link rel="shortcut icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/ars-ios-icon-d9a45f558c.png" />
+  <link rel="mask-icon" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/ars-macos-safari-8997f76b21.svg" color="#ff4e00">
+  <link rel="icon" sizes="192x192" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png" />
+
+    <meta name="application-name" content="Ars Technica"/>
+  <meta name="msapplication-starturl" content="http://arstechnica.com/"/>
+  <meta name="msapplication-tooltip" content="Ars Technica: Serving the technologist for 1.2 decades"/>
+  <meta name="msapplication-task" content="name=News;action-uri=http://arstechnica.com/;icon-uri=https://cdn.arstechnica.net/favicon.ico"/>
+  <meta name="msapplication-task" content="name=Features;action-uri=http://arstechnica.com/features/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-features.ico"/>
+  <meta name="msapplication-task" content="name=OpenForum;action-uri=http://arstechnica.com/civis/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
+  <meta name="msapplication-task" content="name=Subscribe;action-uri=http://arstechnica.com/subscriptions/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="advertising" content="ask" />
+  <meta property="fb:admins" content="592156917" />
+  <meta property="fb:admins" content="108943" />
+    <meta property="fb:pages" content="19374573752" />
+  
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="theme-color" content="#000000" />
+
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <!-- cache hit 287:single/meta:7079c592c663da07062a6884392123c8 -->
+<meta name='parsely-page' content='{"title":"Review: The June oven made me want a camera in every cooking device","link":"https:\/\/arstechnica.com\/gadgets\/2018\/12\/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things\/","type":"post","author":"Megan Geuss","post_id":1429051,"pub_date":"2018-12-22T14:00:20Z","section":"Tech","tags":["cooking","features-2","internet-of-things","june-toaster-oven","reviews","type: feature"],"image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2018\/12\/June_Oven_Front_Wide_On-150x150.jpg"}'>
+<meta name='parsely-metadata' content='{"type":"feature","title":"Review: The June oven made me want a camera in every cooking device","post_id":1429051,"lower_deck":"A fast convection oven and a host of other functions make this toaster oven worth a look. ","image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2018\/12\/June_Oven_Front_Wide_On-150x150.jpg","listing_image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2018\/12\/June_Oven_Front_Wide_On-360x200.jpg"}'>
+
+<link rel="canonical" href="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/" />
+
+<link rel="amphtml" href="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?amp=1">
+
+<link rel="shorturl" href="https://arstechnica.com/?p=1429051" />
+
+<meta name="description" content="A fast convection oven and a host of other functions make this toaster oven worth a look. " />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/">
+<meta name="twitter:title" content="Review: The June oven made me want a camera in every cooking device">
+<meta name="twitter:description" content="A fast convection oven and a host of other functions make this toaster oven worth a look. ">
+
+<meta name="twitter:site" content="@arstechnica">
+<meta name="twitter:domain" content="arstechnica.com">
+
+<meta property="og:site_name" content="Ars Technica" />
+
+<meta name="twitter:image:src" content="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Wide_On-760x380.jpg">
+<meta name="twitter:image:width" content="760">
+<meta name="twitter:image:height" content="380">
+
+<meta name="twitter:creator" content="@MeganGeuss">
+
+<meta property="og:url" content="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/" />
+<meta property="og:title" content="Review: The June oven made me want a camera in every cooking device" />
+<meta property="og:image" content="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Wide_On-760x380.jpg" />
+<meta property="og:description" content="A fast convection oven and a host of other functions make this toaster oven worth a look. " />
+<meta property="og:type" content="article" />
+
+<script type="text/javascript">var digitalData = {"contributor":"Megan Geuss","contentID":1429051,"contentLength":2814,"display":"Review: The June oven made me want a camera in every cooking device","pageType":"feature","keywords":{"display":"cooking|features-2|internet-of-things|june-toaster-oven|reviews|type: feature"},"canonical":"https:\/\/arstechnica.com\/gadgets\/2018\/12\/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things\/","pageValue":1,"publishDate":"2018-12-22T14:00:20+00:00","section":"Tech"};</script>
+  <!-- cache hit 287:single/header:7079c592c663da07062a6884392123c8 -->
+        
+  
+  
+  
+<script>
+!function(b,c,d){"use strict";var e=b.location.hostname,f=""!==b.location.port?":"+b.location.port:"",g=location.search.match(/CNS_SB=([^&\s]+)[&\s]?/)||[],h=e+f+"/cns"+(g.length?"-sandbox/"+g[1]:"")+"/services.min.js",i=d||"//"+h;b.cns=b.cns||{async:function(b,c){this.queue[b]||(this.queue[b]=[]),"function"==typeof c&&this.queue[b].push(c)},queue:{},embed:{backup:d}};var j;j=c.createElement("script"),j.async=!0,j.src=i,c.head.appendChild(j)}(window,document,'https://cdn.arstechnica.net/cns/services.min.js?1545590700');
+</script>
+
+  <!-- Google Tag Manager DataLayer -->
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"event":"data-layer-loaded","user":{"amg_userId":undefined,"uID":undefined,"sID":undefined,"loginStatus":false,"subscriberStatus":"none","infinityId":undefined,"registrationSource":undefined,"mdw_cnd_id":undefined,"monthlyVisits":undefined,"accessPaywall":undefined,"view":"grid","theme":"light","show_comments":false},"content":{"pageTemplate":"single","pageType":"article|feature","contentCategory":"gadgets","section":"gadgets","subsection":undefined,"contributor":"Megan Geuss","contentID":1429051,"contentLength":2814,"display":"Review: The June oven made me want a camera in every cooking device","contentSource":"web","pageAssets":undefined,"uniqueContentCount":undefined,"monthlyContentCount":undefined,"publishDate":"2018-12-22T14:00:20+00:00","modifiedDate":"2018-12-22T14:11:01+00:00","keywords":"Cooking|features|Internet of things|June toaster oven|reviews","dataSource":undefined},"marketing":{"campaignName":undefined,"circCampaignId":undefined,"internalCampaignId":undefined,"brand":"Ars Technica","certified_mrc_data":undefined,"condeNastId":undefined},"page":{"pID":undefined,"syndicatorUrl":undefined,"pageURL":"https:\/\/arstechnica.com\/?p=1429051","canonical":"https:\/\/arstechnica.com\/gadgets\/2018\/12\/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things\/","canonicalPathName":"\/gadgets\/2018\/12\/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things\/"},"search":{"facets":undefined,"searchTerms":undefined},"site":{"appVersion":"1.0.0"}});
+</script>
+<!-- End Google Tag Manager DataLayer -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NLXNPCQ');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="post-template-default single single-post postid-1429051 single-format-standard grid-view light blog-us">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLXNPCQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  	<aside class="ad ad_crown" id="ad_crown_top" aria-label="Top of page advertisement"></aside>
+
+<div class="site-wrapper">
+  <a class="screen-reader-text skip-link" href="#main" aria-label="Skip to main content">Skip to main content</a>    
+  <header class="site-header">
+    <div class="header-left">
+      <a href="https://arstechnica.com" id="header-logo" title="Ars Technica Homepage">
+      <span class="icon icon-logo-ars-us"></span>
+  </a>
+    </div>
+
+    <div class="header-right">
+      <nav id="header-nav-primary">
+        <ul>
+          
+  <li><a class="nav-link section-information-technology " href="/information-technology/">Biz &amp; IT</a></li>
+  <li><a class="nav-link section-gadgets active" href="/gadgets/">Tech</a></li>
+  <li><a class="nav-link section-science " href="/science/">Science</a></li>
+  <li><a class="nav-link section-tech-policy " href="/tech-policy/">Policy</a></li>
+  <li><a class="nav-link section-cars " href="/cars/">Cars</a></li>
+  <li><a class="nav-link section-gaming " href="/gaming/">Gaming &amp; Culture</a></li>
+
+<li><a class="nav-link store" href="/store/">Store</a></li>
+<li><a class="nav-link forums" href="/civis/">Forums</a></li>
+        </ul>
+      </nav>
+
+              <a href="/store/product/subscriptions/" class="header-highlight-link">Subscribe</a>
+                  <div class="dropdown" id="header-search">
+        <a href="/search/" class="dropdown-toggle search-toggle" aria-label="Search" aria-expanded="false">
+          <span class="icon icon-search-mag-glass"></span>
+        </a>
+        <div class="dropdown-content">
+          <form action="/search/" method="GET" id="search_form">
+  <input type="hidden" name="ie" value="UTF-8">
+  <input type="text" name="q" id="hdr_search_input" value="" aria-label="Search..." placeholder="Search...">
+</form>
+<a class="nav-search-close">Close</a>
+        </div>
+      </div>
+      <div class="dropdown dropdown-mega" id="header-burger">
+        <a href="#site-menu" class="dropdown-toggle" aria-label="Menu" aria-expanded="false">
+          <span></span>
+        </a>
+        <div id="site-menu" class="dropdown-content">
+          <section class="burger-navigate">
+  <h3>
+    <span class="icon icon-half-target"></span>
+    Navigate
+  </h3>
+  <ul>
+  <li><a class="nav-link store" href="/store/">Store</a></li>
+  <li><a class="nav-link subscribe" href="/store/product/subscriptions/">Subscribe</a></li>
+    <li><a class="nav-link videos" href="http://video.arstechnica.com/">Videos</a></li>
+    <li><a class="nav-link section-features" href="/features/">Features</a></li>
+    <li><a class="nav-link section-reviews" href="/reviews/">Reviews</a></li>
+  </ul>
+
+  <ul>
+    <li><a class="nav-link page-rss-feeds" href="/rss-feeds/">RSS Feeds</a></li>
+    <li><a class="nav-link mobile" href="/?view=mobile">Mobile Site</a></li>
+  </ul>
+
+  <ul>
+    <li><a class="nav-link page-about-us" href="/about-us/">About Ars</a></li>
+    <li><a class="nav-link page-staff-directory" href="/staff-directory/">Staff Directory</a></li>
+    <li><a class="nav-link page-contact-us" href="/contact-us/">Contact Us</a></li>
+  </ul>
+
+  <ul>
+    <li><a class="nav-link page-advertise-with-us" href="/advertise-with-us/">Advertise with Ars</a></li>
+    <li><a class="nav-link page-reprints" href="/reprints/">Reprints</a></li>
+  </ul>
+</section>
+
+<section class="burger-filter">
+  <h3>
+    <span class="icon icon-half-mag"></span>
+    Filter by topic
+  </h3>
+  <ul id="burger-nav-primary">
+    
+  <li><a class="nav-link section-information-technology " href="/information-technology/">Biz &amp; IT</a></li>
+  <li><a class="nav-link section-gadgets active" href="/gadgets/">Tech</a></li>
+  <li><a class="nav-link section-science " href="/science/">Science</a></li>
+  <li><a class="nav-link section-tech-policy " href="/tech-policy/">Policy</a></li>
+  <li><a class="nav-link section-cars " href="/cars/">Cars</a></li>
+  <li><a class="nav-link section-gaming " href="/gaming/">Gaming &amp; Culture</a></li>
+
+<li><a class="nav-link store" href="/store/">Store</a></li>
+<li><a class="nav-link forums" href="/civis/">Forums</a></li>
+  </ul>
+</section>
+
+<section class="burger-settings">
+  <h3>
+    <span class="icon icon-half-gear"></span>
+    Settings
+  </h3>
+  <div>
+    <div class="burger-layout">
+      
+<p>Front page layout</p>
+<div class="burger-layout-grid">
+  <a rel="nofollow" href="http://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?view=grid" class="">
+    <span class="icon icon-grid"></span><br>
+    Grid
+    <div class="faux-radio active"></div>
+      </a>
+</div>
+
+<div class="burger-layout-list">
+  <a rel="nofollow" href="http://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?view=archive" class="">
+    <span class="icon icon-list"></span><br>
+    List
+    <div class="faux-radio "></div>
+      </a>
+</div>
+
+    </div>
+    <div class="burger-theme">
+      
+<p>Site theme</p>
+<div class="burger-theme-light">
+  <a rel="nofollow" href="http://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?theme=light" class="">
+    <span><span>Black on white</span></span>
+    <div class="faux-radio active"></div>
+      </a>
+</div>
+
+<div class="burger-theme-dark">
+  <a rel="nofollow" href="http://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?theme=dark" class="">
+    <span><span>White on black</span></span>
+    <div class="faux-radio "></div>
+      </a>
+</div>
+    </div>
+  </div>
+</section>
+        </div>
+      </div>
+      <div class="dropdown dropdown-mega" id="header-account">
+      <a href="https://arstechnica.com/civis/ucp.php?mode=login&return_to=%2Fgadgets%2F2018%2F12%2Fhow-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things%2F" class="dropdown-toggle" aria-expanded="false">
+      Sign in
+      <span class="icon dropdown-indicator icon-drop-indicator"></span>
+    </a>
+    <div class="dropdown-content">
+    <section class="profile-activity">
+      <h3>
+        <span class="icon icon-half-bubble-up"></span>
+        Comment activity
+      </h3>
+              <p>Sign up or login to join the discussions!</p>
+          </section>
+
+    <section class="profile-settings">
+              <form id="login-form" action="https://arstechnica.com/civis/ucp.php?mode=login" method="post">
+  <input type="text" name="username" id="username" placeholder="Username or Email" aria-label="Username or Email" />
+  <input type="password" name="password" id="password"  placeholder="Password" aria-label="Password" />
+  <input type="submit" value="Submit" class="button button-orange button-wide" name="login" />
+  <label id="remember-label">
+    <input type="checkbox" name="autologin" id="autologin" />
+  Stay logged in</label> <span>|</span> <a href="/civis/ucp.php?mode=sendpassword">Having trouble?</a>
+
+  <input type="hidden" name="redirect" value="./ucp.php?mode=login&amp;autoredirect=1&amp;return_to=%2Fgadgets%2F2018%2F12%2Fhow-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things%2F" />
+  <input type="hidden" name="return_to" value="/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/" />
+</form>
+<div class="register-account">
+  <span>Sign up to comment and more</span>
+  <a href="https://arstechnica.com/civis/ucp.php?mode=register" class="signup-btn button button-wide">Sign up</a>
+</div>
+      
+    </section>
+  </div>
+</div>
+    </div>
+  </header>
+
+        
+  <main id="main" class="content-wrapper">
+
+<script type="text/javascript">
+  ars.ARTICLE = {"url":"https:\/\/arstechnica.com\/gadgets\/2018\/12\/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things\/","short_url":"https:\/\/arstechnica.com\/?p=1429051","title":"Review: The June oven made me want a camera in every cooking device","author":331051,"id":1429051,"topic":1444381,"pages":2,"current_page":1,"superscroll":true,"promoted":[],"single_page":false,"comments":125,"fullwidth":false,"slug":"how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things","arsStaff":{"104481":{"name":"Aaron Zimmerman","title":"Copyeditor","staff":true},"520255":{"name":"Annalee Newitz","title":"Senior Tech Culture Editor","staff":false},"509873":{"name":"Beth Mole","title":"Health Reporter","staff":true},"335607":{"name":"Cyrus Farivar","title":"Senior Tech Policy Reporter","staff":true},"329388":{"name":"Dan Goodin","title":"Security Editor","staff":true},"512413":{"name":"Eric Berger","title":"Senior Space Editor","staff":true},"55943":{"name":"Jacqui Cheng","title":"Editor at Large","staff":false},"746799":{"name":"Jennifer Ouellette","title":"Senior Writer","staff":true},"52979":{"name":"John Timmer","title":"Senior Science Editor","staff":true},"312082":{"name":"Jon Brodkin","title":"Senior IT Reporter","staff":true},"14317":{"name":"Jonathan M. Gitlin","title":"Automotive Editor","staff":true},"338374":{"name":"Kathleen DeVries","title":"","staff":false},"440179":{"name":"Kerry Staurseth","title":"Associate Copyeditor","staff":true},"328283":{"name":"Kyle Orland","title":"Senior Gaming Editor","staff":true},"331051":{"name":"Megan Geuss","title":"Staff editor","staff":true},"1169":{"name":"Peter Bright","title":"Technology Editor","staff":true},"391727":{"name":"Ron Amadeo","title":"Reviews Editor","staff":true},"348927":{"name":"Sam Machkovech","title":"Tech Culture Editor","staff":true},"588289":{"name":"Samuel Axon","title":"Senior Reviews Editor","staff":true},"314884":{"name":"Sean Gallagher","title":"IT Editor","staff":true},"495539":{"name":"S.I. Newhouse","title":"","staff":false},"173910":{"name":"Timothy B. Lee","title":"Senior tech policy reporter","staff":true},"505571":{"name":"Valentina Palladino","title":"Associate Reviewer","staff":true},"369205":{"name":"Akshat Rathi","title":"Associate Writer","staff":false},"325040":{"name":"Allie Wilkinson","title":"","staff":false},"332715":{"name":"Andrew Cunningham","title":"Reviews Editor Emeritus","staff":false},"505703":{"name":"Cassandra Khaw","title":"Contributing Reporter ","staff":false},"453791":{"name":"Cathleen O'Grady","title":"Contributing science reporter","staff":true},"102179":{"name":"Chris Lee","title":"Associate writer","staff":true},"332078":{"name":"Curt Hopkins","title":"Associate Writer","staff":false},"6978":{"name":"Dave Girard","title":"Associate Writer","staff":false},"332434":{"name":"Dave Klingler","title":"Associate Writer","staff":false},"129513":{"name":"David Kanter","title":"","staff":false},"254631":{"name":"Diana Gitig","title":"Associate Writer","staff":false},"52335":{"name":"edgar","title":"","staff":false},"172426":{"name":"egosumliber","title":"","staff":false},"480857":{"name":"Glyn Moody","title":"Contributing Policy Editor","staff":false},"46707":{"name":"Iljitsch van Beijnum","title":"Associate Writer","staff":false},"332336":{"name":"James Holloway","title":"Associate Writer","staff":false},"217531":{"name":"Jeremy Jacquot","title":"","staff":false},"15365":{"name":"Jeremy Reimer","title":"Senior Niche Technology Historian","staff":false},"4086":{"name":"Jim Salter","title":"Contributor","staff":false},"8996":{"name":"John Siracusa","title":"Associate writer","staff":false},"375641":{"name":"Kate Prengaman","title":"","staff":false},"251816":{"name":"Kate Shaw Yoshida","title":"Associate Writer","staff":false},"133411":{"name":"Knadles","title":"","staff":false},"37509":{"name":"Matt Ford","title":"Associate writer","staff":false},"300066":{"name":"Matthew Braga","title":"Associate writer","staff":true},"323078":{"name":"Matthew Francis","title":"Associate Writer","staff":false},"173191":{"name":"Matthew Lasar","title":"Associate writer","staff":true},"336278":{"name":"Melissae Fellet","title":"Associate Writer","staff":false},"1991":{"name":"Ohrmazd","title":"","staff":false},"445261":{"name":"Robert Lemos","title":"","staff":false},"66380":{"name":"Ryan Paul","title":"Ars Editor Emeritus ","staff":false},"17480":{"name":"SBD","title":"","staff":false},"294205":{"name":"Scott K. Johnson","title":"Associate Writer","staff":true},"451673":{"name":"Shalini Saxena","title":"Science Writer","staff":false},"163185":{"name":"Tim De Chant","title":"","staff":false},"181333":{"name":"vansau","title":"","staff":false},"445789":{"name":"Xaq Rzetelny","title":"","staff":false},"6021":{"name":"Yaz","title":"","staff":false},"417641":{"name":"Yogi Patel","title":"","staff":false},"316010":{"name":"Jason Marlin","title":"Technical Director","staff":true},"998":{"name":"Ken Fisher","title":"Editor in Chief","staff":true},"671621":{"name":"Steven Klein","title":"Developer","staff":false},"1002":{"name":"Aurich Lawson","title":"Creative Director","staff":true},"25862":{"name":"Eric Bangeman","title":"Managing Editor","staff":true},"10243":{"name":"Lee Hutchinson","title":"Senior Technology Editor","staff":true},"182268":{"name":"Nate Anderson","title":"Deputy Editor","staff":true},"330533":{"name":"Nathan Mattise","title":"Features Editor","staff":true},"547195":{"name":"Tom Mendelsohn","title":"Contributing Sub Editor","staff":true},"513593":{"name":"Andrii Degeler","title":"Contributing reporter","staff":true},"549735":{"name":"Jennifer Baker","title":"Contributing Europe Correspondent","staff":true},"566299":{"name":"J.M. Porup","title":"Contributing Security Reporter","staff":true}},"tags":["cooking","features-2","internet-of-things","june-toaster-oven","reviews"],"zen_mode":false,"vote_sentiments":[{"sentiment_id":"1","sentiment":"agree","direction":"positive","icon":null,"label":"Agree"},{"sentiment_id":"3","sentiment":"interesting","direction":"positive","icon":null,"label":"Interesting"},{"sentiment_id":"5","sentiment":"funny","direction":"positive","icon":null,"label":"Funny"},{"sentiment_id":"6","sentiment":"addsto","direction":"positive","icon":null,"label":"Adds to Story"},{"sentiment_id":"7","sentiment":"disagree","direction":"negative","icon":null,"label":"Disagree"},{"sentiment_id":"8","sentiment":"inaccurate","direction":"negative","icon":null,"label":"Inaccurate"},{"sentiment_id":"11","sentiment":"pointless","direction":"negative","icon":null,"label":"Doesn't Contribute"},{"sentiment_id":"12","sentiment":"abusive","direction":"negative","icon":null,"label":"Abusive"}]};
+</script>
+
+<article itemscope itemtype="http://schema.org/NewsArticle" class="article-single standalone intro-standard " id="">
+      <div class="column-wrapper">
+
+  <div class="left-column">
+    <header class="article-header">
+      <h4 class="post-upperdek">
+      toasty    &mdash;
+</h4>
+      <h1 itemprop="headline">Review: The June oven made me want a camera in every cooking device</h1>
+      <h2 itemprop="description">A fast convection oven and a host of other functions make this toaster oven worth a look. </h2>
+      <section class="post-meta">
+
+  
+  <p class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person">
+      <a itemprop="url" href="https://arstechnica.com/author/megan-geuss/" rel="author"><span itemprop="name">Megan Geuss</span></a>
+    -  <time class="date" data-time="1545487220" datetime="2018-12-22T14:00:20+00:00">Dec 22, 2018 2:00 pm UTC</time>
+  </p>
+
+
+  
+</section>    </header>
+
+    <section class="article-guts">
+      <div itemprop="articleBody" class="article-content post-page">
+        
+<figure class="intro-image intro-left">
+  <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Wide_On-800x600.jpg" alt="June oven from the front."/>
+      <figcaption class="caption"><div class="caption-text"><a href="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Wide_On.jpg" class="enlarge-link" data-height="8708" data-width="11608">Enlarge</a></div><div class="caption-credit"><a rel="nofollow" class="caption-link" href="https://juneoven.com/">June Oven</a></div></figcaption>  </figure>
+
+  <aside id="social-left" aria-label="Read the comments or share this article">
+    <a title="95 posters participating" class="comment-count icon-comment-bubble-down" href="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?comments=1">
+      <h4 class="comment-count-before">reader comments</h4>
+    
+  <span class="comment-count-number">125</span>
+  <span class="visually-hidden"> with 95 posters participating</span>
+  </a>
+  
+
+<div class="share-links">
+  <h4>Share this story</h4>
+  <ul>
+    <li><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1429051" target="_blank" class="social-icon share-facebook" title="Share on Facebook"><span class="visually-hidden">Share on Facebook</span></a></li>
+    <li><a href="https://twitter.com/share?text=Review%3A+The+June+oven+made+me+want+a+camera+in+every+cooking+device&url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1429051" target="_blank" class="social-icon share-twitter" title="Share on Twitter"><span class="visually-hidden">Share on Twitter</span></a></li>
+    <li><a href="https://www.reddit.com/submit?url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1429051&title=Review%3A+The+June+oven+made+me+want+a+camera+in+every+cooking+device" target="_blank" class="social-icon share-reddit" title="Share on Reddit"><span class="visually-hidden">Share on Reddit</span></a></li>
+  </ul>
+</div>
+      </aside>
+
+
+
+
+<!-- cache hit 287:single/related:7079c592c663da07062a6884392123c8 --><!-- empty -->
+<p>When my husband and I received a flashy, $250 Breville toaster oven for our wedding in 2014, we couldn't believe how awesome it was. It revolutionized the two-person meal in our household. We were freed from using the geriatric, unreliable oven that came with our apartment, and cookies, pizzas, and baked chicken dishes were now heated all the way through.</p>
+<p><div class="pullbox sidebar story-sidebar right"><div class="story-sidebar-part"><a href="https://arstechnica.com/gadgets/2017/12/dear-silicon-valley-a-sous-vide-is-not-a-slow-cooker/" class="recommendation-further-reading story-sidebar-part-img" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2017/12/presskit1-360x200.jpg');" tabindex="-1" role="presentation" aria-hidden="true"></a><div class="story-sidebar-part-content"><h3>Further Reading</h3><a class="recommendation-further-reading" href="https://arstechnica.com/gadgets/2017/12/dear-silicon-valley-a-sous-vide-is-not-a-slow-cooker/">Dear Silicon Valley: A sous-vide is not a crockpot</a></div></div></div>The best feature was the timer; you could pop a banana bread in there, set it for 40 minutes, and go walk the dog knowing that, when the 40 minutes ended, the Breville would shut off, and your food would slowly stop cooking. The Breville also broiled and roasted, too, so I could char peppers in the summer for salsa. Even four years after buying it, I've maintained that it's the best toaster oven out there.</p>
+<p>Enter the June Oven. Ars heard about this Silicon-Valley marvel several months ago, and I was sent a review unit to test out. The appliance, which ships in February, is a $600 Internet-connected toaster oven that acts as a convection oven, toaster, air fryer, dehydrator, slow cooker, broiler, and warming drawer. (Although you'll need to buy June's Air Baskets separately to actually use the device as an air fryer or as a dehydrator, which will set you back another $50.) You can operate the June from the touch screen on the front or from the June app. Most importantly, there's a camera inside the oven, which totally changed the way I cook.</p>
+<p>Undoubtedly, if you're replacing your current toaster oven and have some cash to spend, the June Oven is worth your consideration. It's not the best at everything, and sometimes its functionality falls flat. You can definitely find something that <a href="https://thewirecutter.com/reviews/the-best-toaster-oven/">toasts and bakes and roasts reliably for less money</a>. But the June left us dazzled by a couple of features that I can only hope will become standard in toaster ovens in the future.</p>
+<p>Even a hard-core, connected-appliances Luddite like myself is considering an IoT toaster oven now. I refuse to keep an Alexa in my house, and I don't want a Nest relaying my home's temperature back to Google. But sign me up for the dystopia where I one day get toast-doxxed. Breakfast is the most important meal of the day, and I want the world to know that I take it very seriously.</p>
+      <div class="gallery shortcode-gallery gallery-wide">
+      <ul>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Closed_On-150x150.jpg" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Closed_On.jpg" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Closed_On-980x735.jpg 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Closed_On-1440x1080.jpg 2560" data-sub-html="#caption-1430563">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Front_Closed_On-980x735.jpg'); background-color:#000"></div>
+                              <figcaption id="caption-1430563">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      One great thing about the June Oven is that, although it's larger than our old toaster oven, it still fits on our countertop. It's also incredibly spacious inside. The oven comes with its own baking sheet, but it fit a number of my old generic sheets and pans. Also, the touchscreen is beautiful and responsive, even if your fingers are a bit greasy or wet from meal prep.                     </div>
+                                                        <div class="credit">
+                      <span class="icon icon-camera"></span>
+                                              June                                          </div>
+                                  </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Turkey-150x150.jpg" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Turkey.jpg" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Turkey-980x735.jpg 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Turkey-1440x1080.jpg 2560" data-sub-html="#caption-1430559">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/June_Oven_Turkey-980x735.jpg'); background-color:#000"></div>
+                              <figcaption id="caption-1430559">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      This is not me, this is not my kitchen, and I never baked a full turkey in the June. But I don't have a problem believing that I could bake a small turkey in there if I wanted.                     </div>
+                                                        <div class="credit">
+                      <span class="icon icon-camera"></span>
+                                              June                                          </div>
+                                  </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0691-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0691.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0691.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0691.png 2560" data-sub-html="#caption-1430555">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0691.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430555">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      To pair the June app with your toaster, you enter a security code generated by the app on the touchscreen on your toaster.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0694-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0694.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0694.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0694.png 2560" data-sub-html="#caption-1430551">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0694.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430551">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      You can set the June to preheat from the app if you so desire.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0692-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0692.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0692.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0692.png 2560" data-sub-html="#caption-1430553">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0692.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430553">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      Here's a snapshot of my June history. I live close to a bagel shop and I really, really like bagels.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0695-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0695.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0695.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0695.png 2560" data-sub-html="#caption-1430549">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0695.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430549">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      The app lets you watch the temperature rise as the oven preheats.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0698-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0698.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0698.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0698.png 2560" data-sub-html="#caption-1430547">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0698.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430547">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      You'll get a notification when the June is ready to cook. The June app is iOS and Android compatible.                     </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0835-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0835.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0835.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0835.png 2560" data-sub-html="#caption-1430509">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0835.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430509">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      The app is very attractively laid out, but there are some glitches. I'm not a professional chef, but that recipe image looks like it's for a berry crumble, not duck legs. Otherwise, there are a lot of interesting recipes in the June cookbook, and you can preheat the oven directly from the recipe in the cookbook app.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0900-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0900.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0900.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0900.png 2560" data-sub-html="#caption-1430483">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0900.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430483">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      Speaking of glitches, one time the live video just didn't resolve.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0861-150x150.jpg" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0861.jpg" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0861-980x735.jpg 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0861-1440x1080.jpg 2560" data-sub-html="#caption-1430491">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0861-980x735.jpg'); background-color:#000"></div>
+                              <figcaption id="caption-1430491">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      An internal thermometer attachment will measure the internal temperature of your food, but I only found this useful when I knew what temperature I wanted the inside of my food to be already.                     </div>
+                                                        <div class="credit">
+                      <span class="icon icon-camera"></span>
+                                              Megan Geuss                                          </div>
+                                  </figcaption>
+                          </figure>
+          </li>
+              </ul>
+    </div>
+  
+
+<h2>Big Brother (and Little Sister) are watching my Eggos</h2>
+<p>Clearly the very best part of the June is the camera inside the oven.</p>
+<p>With the help of the camera, the June can recognize up to 65 foods and counting. It can differentiate between bagels, toaster waffles, toast, and even corn tortillas, and it will offer a predetermined cook time to ensure the ideal toast, which you can modify based on how toasty you want your bread. If you find that your choice did not render your bread toasty enough, the June automatically suggests an extra 30 seconds of toasting time after every toasting session, so you can inch your way to charred bread in half-minute increments if that's your style.</p>
+<p>(A side story about toast: I used to work the breakfast shift in a hotel restaurant, and a regular would specifically request that I put his toast through the toaster four or five times until it was completely blackened and hard. He would eat the charred remains with a squeeze of lemon. He would always joke that his toast would give him cancer, but he was easily 75 years old and showed no signs of slowing his toast roll. To each his own.)</p>
+<p>The one issue I had with June's auto-cook system was that the oven seems to require three decisions, rather than one, before it starts toasting. Here's how it works: you throw in your bagels, and the June's touchscreen asks you to confirm that you have input bagels. You touch the small image of the bagel. But then June's touchscreen moves on to a gray screen asking if you want cooking tips, and you have to hit "Continue," then "Toast," to actually start the toasting session. Why would I want tips to get a bagel toasted? I've toasted an unhealthy amount of bagels in my life—I'm pretty sure I know what I'm doing here. Forgetting about this weird interstitial screen also caused me to walk away from the toaster before I hit "Continue." Coming back several minutes later to bagels as cold as they were when I took them out of the bag was disappointing but not a deal-breaker. Like Pavlov's dog, I quickly learned the motions required to make my toast desires a reality.</p>
+<p>But the absolute best thing about this camera is not that it can tell what you're cooking, but that you can watch what you're cooking as it cooks (and others can, too).</p>
+<p>If you open the June app while your food is cooking, you'll be able to select a "live video" screen where you can watch your meat caramelize, your cookies harden, and your chocolate chips melt. When I was cooking something, I would open the app more often than any other app on my phone. It was as addicting as Twitter with none of the trash-fire opinions.</p>
+      <div class="gallery shortcode-gallery gallery-wide">
+      <ul>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0699-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0699.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0699.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0699.png 2560" data-sub-html="#caption-1430545">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0699.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430545">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      Apple cheddar scones, in dough form.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0700-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0700.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0700.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0700.png 2560" data-sub-html="#caption-1430543">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0700.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430543">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      Opening the door of the June to put my scones in dropped the temperature from 375&deg; temporarily.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0702-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0702.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0702.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0702.png 2560" data-sub-html="#caption-1430541">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0702.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430541">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      The app also gives you a countdown based on the time you set for your bake.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0708-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0708.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0708.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0708.png 2560" data-sub-html="#caption-1430533">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0708.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430533">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      Finishing a bake results in two notifications: one lets you know that the food is almost finished, and another lets you know that the food is finished.                     </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0704-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0704.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0704.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0704.png 2560" data-sub-html="#caption-1430539">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0704.png'); background-color:#000"></div>
+                              <figcaption id="caption-1430539">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      These look like some nice toasty scones.                    </div>
+                                                    </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0705-150x150.jpg" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0705.jpg" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0705-980x735.jpg 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0705-1440x1080.jpg 2560" data-sub-html="#caption-1430537">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0705-980x735.jpg'); background-color:#000"></div>
+                              <figcaption id="caption-1430537">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      Taking the scones out of the oven, and they're looking pretty good.                     </div>
+                                                        <div class="credit">
+                      <span class="icon icon-camera"></span>
+                                              Megan Geuss                                          </div>
+                                  </figcaption>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0706-150x150.jpg" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0706.jpg" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0706-980x735.jpg 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0706-1440x1080.jpg 2560" data-sub-html="#caption-1430535">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0706-980x735.jpg'); background-color:#000"></div>
+                              <figcaption id="caption-1430535">
+                  <span class="icon caption-arrow icon-drop-indicator"></span>
+                                      <div class="caption">
+                      Breaking open one of the scones. It looks great and well-cooked the whole way through.                     </div>
+                                                        <div class="credit">
+                      <span class="icon icon-camera"></span>
+                                              Megan Geuss                                          </div>
+                                  </figcaption>
+                          </figure>
+          </li>
+              </ul>
+    </div>
+  
+
+<p>The next logical step of this "live video" feature, of course, was to share the video with someone. I had my sister download the June app, and, from 1,500 miles away, she gave me the key to pair the app with my oven.</p>
+<p>This was revolutionary. She checked the app every morning, either catching my toast or finding my bagels in the June Oven's history. I would alert her when I was about to make popcorn (the air fryer and baskets allow you to make popcorn! More on this later) or when I was prepping salmon for dinner. The novelty of being able to watch someone else's dinner get made from halfway across the country was hilarious and thrilling. The modern world comes with a lot of awfulness, but some of the trivia really is a trip.</p>
+      <div class="gallery shortcode-gallery gallery-wide">
+      <ul>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0714-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0714.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0714.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0714.png 2560" data-sub-html="#caption-1430527">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0714.png'); background-color:#000"></div>
+                          </figure>
+          </li>
+                  <li data-thumb="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0864-150x150.png" data-src="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0864.png" data-responsive="https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0864.png 1080, https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0864.png 2560" data-sub-html="#caption-1430489">
+            <figure style="height:1334px;">
+              <div class="image" style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2018/12/IMG_0864.png'); background-color:#000"></div>
+                          </figure>
+          </li>
+              </ul>
+    </div>
+  
+
+<p>My father was aghast when my sister and I mentioned that we watch my food cook over an app. "And you're worried about privacy in the digital age?!" he asked me, incredulous.</p>
+<p>Of course, I don't want the government reading my emails, but if June or the NSA or some hacker wants to watch me toast my third bagel of the day, I think the most they'll glean from that is that someone in my household is carbo-loading. (Well, and that someone is home, I guess, but at least abstaining from the toaster oven isn't an indication that we're not home.) Probably there's some way to be truly compromised here, but I'll admit I've not thought through the consequences. As a willing and excited cook, flexing on my baked salmon recipes for whichever corporate overlords own my June video reel seems like a small intrusion.</p>
+<h2>How well does it work?</h2>
+<p>Besides the camera, the June Oven excels at some things and falls flat in other respects. The app is beautiful but full of glitches. One issue: when you open the app's cookbook, tapping on the carousel images that appear at the top closes the app. A few times, I was unable to get a live feed of the food in the oven, and the app just presented me with a solid green screen. Additionally, a few recipes in the cookbook list the ingredients you'll need step by step, rather than at the beginning of the recipe, which makes shopping for a meal needlessly hard.</p>
+<p>That said, the app does offer step-by-step video instructions for meal prep before you put your food in the oven. This is a real help on more complicated recipes.</p>
+<p>One seemingly obvious use for the app is that you can preheat the oven when you're far from the June and find a fully heated oven when you return to the kitchen. But in practice, I never really used the app this way, because the June preheats really, really quickly. Usually, I'm barely done with meal prep before the oven's audio alert goes off to let me know preheat is complete.</p>
+<p>In addition, the convection oven seems to cook quickly as well. Regularly, we found roasts and fish and baked goods to be done several minutes in advance of the time that a non-June-provided recipe would prescribe. (The June-provided recipes, on the other hand, usually came out right on time, which makes sense.) Several times, we found that we overcooked something if we didn't keep an eye on it toward the end.</p>
+<p>Interestingly, <a href="https://www.cnet.com/reviews/june-intelligent-oven-2018-review/">an earlier CNET review</a> described the opposite problem: food came out slightly underdone. Perhaps in the time between that review and our review, a software update fixed the previous problem, or perhaps the problem was specific to my review unit or CNET's review unit, rather than general. In practice, though, solving this problem was much like breaking in any other toaster oven: you just kind of have to know the idiosyncrasies of your appliance and, within reason, tailor your cook times accordingly. (Obviously, if this is a constant problem then it's probably a bad oven; no need to become an appliance apologist.)</p>
+
+      </div>
+
+      
+              <nav class="page-numbers">Page: <span class="numbers">1 <a href="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/2/">2</a> <a href="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/2/"><span class="next">Next <span class="arrow">&rarr;</span></span></a></span></nav>
+      
+    </section>
+  </div>
+
+  <div class="xrail">
+    <div class="xrail-content">
+            
+      
+              <aside class="ad ad_xrail ad_xrail_top" id="ad_xrail_top" aria-label="Top sidebar advertisement"></aside>
+        <aside class="ad_native" id="ad_xrail_native" aria-label="Sidebar native advertisement"></aside>
+      
+    </div>
+  </div>
+
+</div>
+
+<div class="column-wrapper">
+  <div class="left-column">
+    <div id="social-footer">
+      <a title="95 posters participating" class="comment-count icon-comment-bubble-down" href="https://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?comments=1">
+      <h4 class="comment-count-before">reader comments</h4>
+    
+  <span class="comment-count-number">125</span>
+  <span class="visually-hidden"> with 95 posters participating</span>
+  </a>
+  
+
+<div class="share-links">
+  <h4>Share this story</h4>
+  <ul>
+    <li><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1429051" target="_blank" class="social-icon share-facebook" title="Share on Facebook"><span class="visually-hidden">Share on Facebook</span></a></li>
+    <li><a href="https://twitter.com/share?text=Review%3A+The+June+oven+made+me+want+a+camera+in+every+cooking+device&url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1429051" target="_blank" class="social-icon share-twitter" title="Share on Twitter"><span class="visually-hidden">Share on Twitter</span></a></li>
+    <li><a href="https://www.reddit.com/submit?url=https%3A%2F%2Farstechnica.com%2F%3Fpost_type%3Dpost%26p%3D1429051&title=Review%3A+The+June+oven+made+me+want+a+camera+in+every+cooking+device" target="_blank" class="social-icon share-reddit" title="Share on Reddit"><span class="visually-hidden">Share on Reddit</span></a></li>
+  </ul>
+</div>
+    </div>
+          <!-- cache hit 287:single/author:93b9194b54ba7d9e645110acf424019b --><section class="article-author">
+      <a style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2016/05/m.geuss-16.jpg');" class="author-photo" href="/author/megan-geuss" tabindex="-1" role="presentation" aria-hidden="true"></a>
+  
+  <div class="author-bio">
+    <section class="author-bio-top">
+      <a href="/author/megan-geuss" class="author-name">Megan Geuss</a>
+      Megan is a staff editor at Ars Technica. She writes breaking news and has a background in fact-checking and research.    </section>
+    <section class="author-social">
+              <strong>Email</strong> <a href="mailto:megan.geuss@arstechnica.com">megan.geuss@arstechnica.com</a>
+                    <span class="slashes">//</span>
+                    <strong>Twitter</strong> <a href="https://www.twitter.com/MeganGeuss" target="_blank">@MeganGeuss</a>
+          </section>
+    
+  </div>
+
+</section>
+      </div>
+  <div class="xrail"></div>
+</div>
+
+
+<div id="article-footer-wrap">
+      <section id="comments-area" class="comments-area">
+  <div class="row comments-row">
+    <a name="comments-bar"></a>
+          <div id="comments-container"></div>
+      <div id="comments-posting-container" class="thick-divide-bottom">
+        <p id="reply">You must <a href="https://arstechnica.com/civis/ucp.php?mode=login&return_to/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/" class="vote_login">login or create an account</a> to comment.</p>
+      </div>
+      </div>
+<section>
+          <section class="inline-playlist">
+  <div class='ars-video-playlist'>
+    <h3 class="ars-video-playlist-module-header">Channel <span>Ars Technica</span></h3>
+    <div class='ars-video-playlist-module' data-playlist-id='arstechnica-channel-ars-gadgets' data-video-options='[]'></div>
+  </div>
+</section>
+        <div class="prev-next-links">
+  <a href="https://arstechnica.com/cars/2018/12/teslas-solarcity-lost-ground-to-sunrun-in-2018/" rel="prev"><span class="arrow">&larr;</span> Previous story</a>  <a href="https://arstechnica.com/information-technology/2018/12/try-your-hand-at-being-an-operator-at-the-roseville-telephone-museum/" rel="next">Next story <span class="arrow">&rarr;</span></a></div>
+    <footer id="article-footer">
+  <div id="recommendations-footer">
+    <div id="story-recommendations">
+  <div class="heading-column">
+    <h3>Related Stories</h3>
+  </div>
+  <ul id="story-recs" class="rec-wrap"></ul>
+</div>
+        <div id="sponsored-recommendations">
+  <div class="heading-column">
+    <h3>Sponsored Stories</h3>
+    <a href="http://www.outbrain.com/what-is/default/en" target="_blank">Powered by <span class="icon outbrain-logo icon-logo-outbrain"></span></a>
+  </div>
+  <ul id="outbrain-recs"></ul>
+</div>
+        <div id="latest-stories">
+  <div class="heading-column">
+    <h3>Today on Ars</h3>
+  </div>
+  <ul id="latest-recs" class="rec-wrap"></ul>
+</div>
+  </div>
+</footer>
+  </div>
+  </article>
+  </main>
+
+  <footer class="site-footer">
+    <nav class="nav-footer">
+
+  <section>
+    <ul>
+      <li><a href="/store/">Store</a></li>
+      <li><a href="/store/product/subscriptions/">Subscribe</a></li>
+      <li><a href="/about-us/">About Us</a></li>
+      <li><a href="/rss-feeds/">RSS Feeds</a></li>
+      <li><a rel="nofollow" href="http://arstechnica.com/gadgets/2018/12/how-a-toaster-oven-helped-me-learn-to-stop-worrying-and-love-the-internet-of-things/?view=mobile">View Mobile Site</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <ul>
+      <li><a href="/contact-us/">Contact Us</a></li>
+      <li><a href="/staff-directory/">Staff</a></li>
+      <li><a href="/advertise-with-us/">Advertise with us</a></li>
+      <li><a href="/reprints/">Reprints</a></li>
+    </ul>
+  </section>
+
+  <section class="footer-newsletter">
+    <div class="newsletter-wrapper">
+      <h3>Newsletter Signup</h3>
+      <p>Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.</p>
+      <!-- Begin MailChimp Signup Form -->
+      <form action="https://arstechnica.us1.list-manage.com/subscribe/post?u=af7f013bad7e785d15aab736f&amp;id=0adf3ee3d9" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+        <div class="form-wrapper">
+          <input type="email" value="" name="EMAIL" class="required email mce-EMAIL" placeholder="Email address" aria-label="Email Address">
+          <input type="submit" value="Subscribe" name="subscribe" class="button mc-embedded-subscribe-btn">
+        </div>
+      </form>
+      <!--End mc_embed_signup-->
+    </div>
+  </section>
+
+</nav>
+
+<section class="footer-terms-logo">
+  <div class="cn-logo">
+    <a href="http://condenast.com/" class="icon icon-logo-cn-us" title="Visit Condé Nast"></a>
+  </div>
+
+  <p id="copyright-terms">
+  CNMN Collection<br>
+  WIRED Media Group<br>
+  © 2018 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our <a href="https://www.condenast.com/user-agreement/">User Agreement</a> (updated 5/25/18) and <a href="https://www.condenast.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 5/25/18) and <a href="/amendment-to-conde-nast-user-agreement-privacy-policy/">Ars Technica Addendum</a> (effective 8/21/2018). Ars may earn compensation on sales from links on this site. <a href="/affiliate-link-policy/">Read our affiliate link policy</a>.<br>
+  <a href="https://www.condenast.com/privacy-policy/#california">Your California Privacy Rights</a><br>
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.<br>
+  <a href="https://www.condenast.com/online-behavioral-advertising-oba-and-how-to-opt-out-of-oba/#clickheretoreadmoreaboutonlinebehavioraladvertising(oba)">Ad Choices</a>
+</p>
+</section>
+  </footer>
+</div>
+
+<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/main-4afb7af640.js"></script>
+
+
+<!-- cache hit 287:single/javascript-footer:7079c592c663da07062a6884392123c8 -->
+        
+
+
+
+  <script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/ars-14c34c0ed5.ads.us.js"></script>
+    <!-- Parse.ly start -->
+	<script type="text/javascript">
+  (function(d) {
+    var site = "arstechnica.com",
+    b = d.body,
+    e = d.createElement("div");
+    e.innerHTML = '<span id="parsely-cfg" data-parsely-site="'+site+'"></span>';
+    e.id = "parsely-root";
+    e.style.display = "none";
+    b.appendChild(e);
+  })(document);
+
+  (function(s, p, d) {
+    var h=d.location.protocol, i=p+"-"+s,
+    e=d.getElementById(i), r=d.getElementById(p+"-root"),
+    u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+    if (e) return;
+    e = d.createElement(s); e.id = i; e.async = true;
+    e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+  })("script", "parsely", document);
+	</script>
+  <!-- Parse.ly end -->
+
+  <!-- Adobe Tag Mgr. -->
+  <script src="//assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-56a425e07376b6977c987d46ef46ba636a6e2036.js"></script>
+
+  <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+
+
+<script type="text/javascript" src="//s.skimresources.com/js/100098X1555750.skimlinks.js"></script>
+</body>
+</html>
